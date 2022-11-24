@@ -1,15 +1,11 @@
 package tset_A;
 
 public class Type_Casting {
-
     public static int  num = 10;
     //public static float  sal = 100.50;
 
 
     public static void main(String args[]) throws Exception {
-
-
-
 
         System.out.println("The Integer value: "+ num);
 
