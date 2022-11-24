@@ -25,7 +25,6 @@ public class Looping2 {
         public void run_A_For_Loop(int theMaxNum){
             for(int i=1 ; i<=theMaxNum ; i++){
                 System.out.println("The Number Is ==>"+i);
-
         }
     }
 
